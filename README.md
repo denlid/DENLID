@@ -11,6 +11,3 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denlid&layout=compact&theme=radical)  
-
----
-⭐️ *Always open to interesting projects — reach out if you’d like to collaborate!*
